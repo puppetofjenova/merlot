@@ -148,7 +148,7 @@ header span.ribbon-inner {
   position: relative;
   display: block;
   background-color: #cd596b;
-  border: 4px solid #7c334f;
+  border: 4px solid #FF4D55;
   padding: 2px;
   z-index: 1;
 }
@@ -175,7 +175,7 @@ header span.right-tail {
 }
 
 header h1 {
-  background-color: #7c334f;
+  background-color: #FF4D55;
   font-size: 2.5em;
   font-weight: 800;
   font-style: normal;
@@ -187,7 +187,7 @@ header h1 {
 }
 
 header h2 {
-  background-color: #7c334f;
+  background-color: #FF4D55;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
@@ -292,8 +292,8 @@ footer span.ribbon-outer {
 footer span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #cd596b;
-  border: 2px solid #7c334f;
+  background-color: #33B5FF;
+  border: 2px solid #FF4D55;
   padding: 1px;
   z-index: 1;
 }
@@ -306,11 +306,11 @@ footer p {
 }
 
 footer a {
-  color: #cd596b;
+  color: #33B5FF;
 }
 
 footer span.ribbon-inner p {
-  background-color: #7c334f;
+  background-color: #FF4D55;
   margin: 0;
   color: #e69b95;
   font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
@@ -477,7 +477,7 @@ th {
   padding: 2px 10px;
   border: solid #ece4d8;
   border-width: 0 2px 2px 0;
-  color: #cd596b;
+  color: #33B5FF;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   font-weight: bold;
   font-size: .85em;
@@ -529,7 +529,7 @@ dd p:first-child {
 .header-level-1 {
   font-size: 1.85em;
   border-bottom: .2em double #d3ccc1;
-  color: #7c334f;
+  color: #FF4D55;
   text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
@@ -539,7 +539,7 @@ dd p:first-child {
 
 .header-level-2 {
   font-size: 1.58em;
-  color: #7c334f;
+  color: #FF4D55;
   margin: .95em 0 .5em;
   border-bottom: .1em solid #D3CCC1;
   line-height: 1.2;
@@ -554,7 +554,7 @@ dd p:first-child {
 .header-level-4 {
   margin: .6em 0;
   font-size: 1.2em;
-  color: #cd596b;
+  color: #33B5FF;
 }
 
 .header-level-5 {
